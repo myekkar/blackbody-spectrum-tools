@@ -47,5 +47,4 @@ def stellar_radiation_graph(start_temperature, y_axis_label, color_to_use):
 
 stellar_radiation_graph(3000, 'Red Dwarf (3000 K)', 'red')
 stellar_radiation_graph(6000, 'Sun-like (6000 K)', 'orange')
-
 stellar_radiation_graph(20000, 'Blue Giant (20000 K)', 'blue')
