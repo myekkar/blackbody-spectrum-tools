@@ -17,7 +17,6 @@ def wien_peak(T):
     """Wien's displacement law in meters"""
     return B / T
 
-# Temperatures to test
 temperatures = [3000, 6000, 20000]
 
 # Wavelength grid (in meters)
